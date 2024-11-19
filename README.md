@@ -1,8 +1,4 @@
-# Chat App using React Native Expo and Firebase
 
-- See a video tutorial showing how to clone this repository 👉🏼 [https://www.youtube.com/watch?v=iHrTQDHq1WI&t=385s](https://www.youtube.com/watch?v=iHrTQDHq1WI&t=385s)
-
-- Check out the Tutorial 👉🏼 [https://www.youtube.com/watch?v=B6bKBiljKxU&t=323s](https://www.youtube.com/watch?v=B6bKBiljKxU&t=323s)
 
 ## How to clone
 
@@ -67,10 +63,4 @@ Expo will show you what dependencies need to be updated. Install the dependencie
 
 ```
 yarn start --reset-cache
-```
-# App-tareas
-# App-tareas
-# App-tareas
-# App-tareas
-# App-tareas
-# App-tareas
+s
