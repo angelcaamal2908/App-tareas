@@ -9,8 +9,7 @@
 Clone the repo
 
 ```
-git clone https://github.com/betomoedano/ChatApp.git
-```
+gh repo clone angelcaamal2908/App-tareas```
 
 cd into the just created project and install dependencies with yarn
 
